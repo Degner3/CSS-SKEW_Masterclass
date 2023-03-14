@@ -1,3 +1,4 @@
+//HUSK AT LÆSE DET HELE. Nogle af linjerne er lange!
 //Skriv to globale variabler. 
 //Den første hedder xAnswer og finder DOM elementet med id'et "xAnswer".
 //Den anden hedder inputX og finder DOM elementet med id'et "x".
@@ -11,7 +12,7 @@
 //Skriv den globale variabel som hedder img og finder DOM elementet img.
 
 
-//Lav to gobale variabler der hedder xvalue og yvalue, som gemmer x- og y-aksens værdier. De skal sættes til 0.
+//Lav to globale variabler der hedder xvalue og yvalue, som gemmer x- og y-aksens værdier. De skal sættes til 0.
 
 
 //Lav en eventListener for inputX, som "lytter" efter input. 
@@ -20,7 +21,7 @@
 //Sæt img's style til at lig med transform: skew. værdierne i skew sættes til xvalue og yvalue. HINT: brug en literal string : `transform: skew(${ }deg, ${ }deg);`.
 
 
-//Gentag samme eventListener bare for inputX
+//Gentag samme eventListener bare for inputY.
 
 
 
